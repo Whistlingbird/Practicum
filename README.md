@@ -1,0 +1,2 @@
+# Practicum
+Some study projects
